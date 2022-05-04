@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @resullivan2 aka Rebecca
-- 👀 I’m interested in R and statistics.
+- 👀 I’m interested in R, SAS, SQL, Google Big Query and statistics.
 - 🌱 I’m currently learning R
 - 📫 How to reach me ... re_sullivan at yahoo
 
